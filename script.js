@@ -17,7 +17,7 @@ window.addEventListener("mousemove", function(event) {
 
 ctx.fillStyle = "white";
 ctx.font = "30px Verdana";
-ctx.fillText("PAULA", 0, 30);
+ctx.fillText("WANG", 0, 30);
 const textCoordinates = ctx.getImageData(0, 0, 100, 100);
 
 class Particles {
